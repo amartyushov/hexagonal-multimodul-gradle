@@ -1,0 +1,1 @@
+# hexagonal-multimodul-gradle
